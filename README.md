@@ -13,6 +13,7 @@ I design and implement intelligent systems that merge **machine learning**, **ge
 - 🌍 Based in Warsaw, Poland  
 
 ---
+![Update README Activity](https://github.com/ElinaKlymovska/ElinaKlymovska/actions/workflows/activity.yml/badge.svg)
 
 ## 🛠 Tech Skills  
 
@@ -47,7 +48,7 @@ I design and implement intelligent systems that merge **machine learning**, **ge
 
 ---
 
-## 📝 Latest Activity  
+## 📝 Latest Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
