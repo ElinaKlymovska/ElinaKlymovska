@@ -1,0 +1,19 @@
+name: Update README with activity
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # оновлення щогодини
+  workflow_dispatch:       # ручний запуск
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update recent activity
+        uses: JamesIves/github-activity-readme@v0.4.3
+        with:
+          COMMIT_MSG: "chore: update README with recent activity"
