@@ -1,3 +1,5 @@
+![Update README Activity](https://github.com/ElinaKlymovska/ElinaKlymovska/actions/workflows/activity.yml/badge.svg)
+
 # 👋 Hi, I'm Elina Klymovska  
 
 **💡 AI/ML Engineer | Generative AI | Automation Specialist**  
@@ -13,7 +15,7 @@ I design and implement intelligent systems that merge **machine learning**, **ge
 - 🌍 Based in Warsaw, Poland  
 
 ---
-![Update README Activity](https://github.com/ElinaKlymovska/ElinaKlymovska/actions/workflows/activity.yml/badge.svg)
+
 
 ## 🛠 Tech Skills  
 
