@@ -54,6 +54,7 @@ I design and implement intelligent systems that merge **machine learning**, **ge
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+
 ---
 
 ## 📫 Contact  
