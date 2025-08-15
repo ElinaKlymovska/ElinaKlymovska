@@ -2,8 +2,8 @@ name: Update README with activity
 
 on:
   schedule:
-    - cron: "0 * * * *"      # щогодини
-  workflow_dispatch:          # можливість запуску вручну
+    - cron: "0 */6 * * *"
+  workflow_dispatch:      
 
 permissions:
   contents: write
