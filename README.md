@@ -1,52 +1,66 @@
-# 👋 Hi, I'm Elina Klymovska  
+# Hi, I'm Elina Klymovska
+**AI/ML Engineer — Generative AI & Automation**
 
-**💡 AI/ML Engineer | Generative AI | Automation Specialist**  
-
-I design and implement intelligent systems that merge **machine learning**, **generative AI**, and **automation** — from image processing pipelines to RAG-based conversational assistants.  
----
-## 🚀 About Me  
-- 🧠 **Expertise:** LLMs, AI agents, RAG, generative image/video pipelines  
-- ⚙️ **Tech Stack:** Python, LangChain, Stable Diffusion (SDXL, ControlNet, ADetailer), AWS, RunPod, Terraform  
-- 📊 **Specialties:** Prompt engineering, multi-agent workflows, identity-preserving generation  
-- 🌍 Based in Warsaw, Poland
+I build production-ready LLM/RAG apps, agent workflows, and image pipelines (SDXL), from quick prototypes to cloud deployments.
 
 ---
 
-## 🛠 Tech Skills
+## About
+- Focus: LLM apps, RAG, agents, computer vision, data/automation pipelines  
+- Based in Warsaw, Poland
+
+---
+
+## Tech Skills (compact)
+
 <table>
   <tr>
     <th>Languages & Frameworks</th>
-    <th>AI/ML</th>
-    <th>Cloud & Infra</th>
+    <th>AI / ML</th>
+    <th>Cloud & DevOps</th>
   </tr>
   <tr>
     <td>
-      <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
-      <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white" />
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+      Python, FastAPI, SQL<br/>
+      Java, Spring Boot/Security<br/>
     </td>
     <td>
-      <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-      <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" />
-      <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable_Diffusion-FF6F61?logo=artstation&logoColor=white" />
+      LLMs (OpenAI, Claude, Mistral), LangChain<br/>
+      RAG (ChromaDB, FAISS), HF Transformers<br/>
+      Prompt Eng, LoRA, SDXL + ControlNet + ADetailer
     </td>
     <td>
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" />
-      <img alt="RunPod" src="https://img.shields.io/badge/RunPod-2D2D2D?logo=serverless&logoColor=white" />
-      <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" />
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+      AWS (Bedrock, Lambda, S3, RDS), Docker<br/>
+      GitHub Actions, Terraform, RunPod<br/>
+      Testing: Pytest, JUnit/Mockito
     </td>
   </tr>
 </table>
 
 ---
 
-## 📌 Featured Projects
-
-- **🔮 AI Crypto Prediction Agent** – Forecasts cryptocurrency trends with RAG-based explanations from news + market data  
-- **🖼 Character Face Stylization Pipeline** – Multi-step Stable Diffusion XL workflow for hyper-realistic, identity-preserving face enhancement  
-- **🤖 Telegram AI Assistant** – Custom AI bot for real-time data analysis and automation  
+## Featured Projects
+- **AI Crypto Prediction Agent** — forecast + RAG explanations from news & market metrics  
+- **Character Face Stylization** — SDXL pipeline for hyper-realistic, identity-preserving enhancement  
+- **Telegram AI Assistant** — real-time analysis & automation via custom agent backend
 
 ---
 
-⭐ *Always open to AI/ML collaborations and innovative projects.*
+## Experience Snapshot
+- **AI Engineer** — LLM/RAG services, MCP integrations, data pipelines, AWS deploys (Bedrock/Lambda/S3/RDS), Docker, REST.  
+- **Java Developer** — Spring Boot/Security, WebSocket/TCP, JPA Specs, Angular + TypeScript, unit testing.
+
+---
+
+## GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElinaKlymovska&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinaKlymovska&layout=compact&theme=radical)
+
+
+---
+
+## Contact
+- Email: **klymovska.elina@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/elina-klymovska
+
+⭐ *Open to AI/ML collaborations and innovative projects.*
