@@ -8,8 +8,10 @@ I design and implement intelligent systems that merge **machine learning**, **ge
 - 🧠 **Expertise:** LLMs, AI agents, RAG, generative image/video pipelines  
 - ⚙️ **Tech Stack:** Python, LangChain, Stable Diffusion (SDXL, ControlNet, ADetailer), AWS, RunPod, Terraform  
 - 📊 **Specialties:** Prompt engineering, multi-agent workflows, identity-preserving generation  
-- 🌍 Based in Warsaw, Poland  
+- 🌍 Based in Warsaw, Poland
+
 ---
+
 ## 🛠 Tech Skills
 <table>
   <tr>
@@ -36,10 +38,15 @@ I design and implement intelligent systems that merge **machine learning**, **ge
     </td>
   </tr>
 </table>
+
 ---
-## 📌 Featured Projects  
+
+## 📌 Featured Projects
+
 - **🔮 AI Crypto Prediction Agent** – Forecasts cryptocurrency trends with RAG-based explanations from news + market data  
 - **🖼 Character Face Stylization Pipeline** – Multi-step Stable Diffusion XL workflow for hyper-realistic, identity-preserving face enhancement  
 - **🤖 Telegram AI Assistant** – Custom AI bot for real-time data analysis and automation  
+
 ---
+
 ⭐ *Always open to AI/ML collaborations and innovative projects.*
