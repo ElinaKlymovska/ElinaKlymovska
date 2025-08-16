@@ -46,12 +46,6 @@ I build production-ready LLM/RAG apps, agent workflows, and image pipelines (SDX
 
 ---
 
-## Experience Snapshot
-- **AI Engineer** — LLM/RAG services, MCP integrations, data pipelines, AWS deploys (Bedrock/Lambda/S3/RDS), Docker, REST.  
-- **Java Developer** — Spring Boot/Security, WebSocket/TCP, JPA Specs, Angular + TypeScript, unit testing.
-
----
-
 ## Contact
 - Email: **klymovska.elina@gmail.com**  
 - LinkedIn: https://www.linkedin.com/in/elina-klymovska
